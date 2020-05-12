@@ -244,7 +244,7 @@ I ~~dont~~ like ice cream
 
 # Math equations
 
-There are a great deal of options for mathematical equations (Greek letter, subscripts, superscripts, math symbols, fractions etc.). The mathematical typesetting is based on LaTeX. These are not part of the Markdown core specs but diffeent flavors of markdown have support for Equations, for example Rmarkdown. Here is small flavor: (You will need to `knit` in `Rmarkdown` or live preview in `Visual Studio Code` to see the rendered output)
+There are a great deal of options for mathematical equations (Greek letter, subscripts, superscripts, math symbols, fractions etc.). The mathematical typesetting is based on LaTeX. These are not part of the Markdown core specs but different flavors of markdown have support for Equations, for example Rmarkdown. Here is small flavor: (You will need to `knit` in `Rmarkdown` or live preview in `Visual Studio Code` to see the rendered output). Math equations will not render on GitHub as markdown files.
 
 ## Inline 
 
