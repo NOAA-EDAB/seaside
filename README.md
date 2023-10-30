@@ -2,7 +2,7 @@
 
 This is a repo that will be used to test/demo aspects of github project managament and version control in our seaside chats. 
 
-[For more infor check out the wiki](https://github.com/NOAA-EDAB/seaside/wiki)
+[For more info check out the wiki](https://github.com/NOAA-EDAB/seaside/wiki)
 
 In these meetings we will follow a code of conduct (below) to ensure that all participates feel welcome to contribute to the conversations we have around project management, workflows and data. 
 
